@@ -119,5 +119,4 @@ if __name__ == '__main__':
     print(W1.reward)
     print(W1.P)
     W1.bellmam()
-
     print(W1.V)
